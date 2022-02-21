@@ -9,5 +9,15 @@ public class Operadores {
         * */
 
         Exercicio01.operadoresRelacionias();
+
+        /*
+        * Operadores Lógicos:
+        * and -> Conjunção -> &&
+        * or -> Disjunção -> ||
+        * xor -> Disjunção exclusiva -> ^
+        * not -> Inversão -> !
+        * */
+
+        Exercicio02.operadoresLogicos();
     }
 }
