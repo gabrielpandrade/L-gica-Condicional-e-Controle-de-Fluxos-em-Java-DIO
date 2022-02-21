@@ -19,5 +19,22 @@ public class Operadores {
         * */
 
         Exercicio02.operadoresLogicos();
+
+        /*
+        * Estruturas de controle de fluxo:
+        * if
+        * if-else
+        * if-else-if
+        * switch
+        * operador ternário  <condição> ? <se true> : <se flase>;
+        *
+        * for
+        * while
+        * do while
+        *
+        * break
+        * continue
+        * return
+        * */
     }
 }
